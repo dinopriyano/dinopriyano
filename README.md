@@ -17,7 +17,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=blue)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=purple)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-- 🛢 &nbsp;
+- 🛢 &nbsp;&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb&logoColor=brown)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=orange)
