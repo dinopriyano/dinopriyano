@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dinopriyano"><img src="https://img.shields.io/badge/-Dino%20Priyano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:dinopriyano@gamil.com"><img src="https://img.shields.io/badge/-dinopriyano@gamil.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:dinopriyano@gmail.com"><img src="https://img.shields.io/badge/-dinopriyano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
