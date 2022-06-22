@@ -5,6 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Currently focusing on mobile development.
+- 💩 &nbsp; I hate web programming (front end).
 - 🎓 &nbsp; Studying Software Engineering at State University of Jakarta.
 
 
