@@ -6,6 +6,7 @@
 
 - 🤔 &nbsp; Currently focusing on mobile development.
 - 💩 &nbsp; I hate web programming (front end).
+- 🧑🏻‍💻 &nbsp; Working at Blibli.com as Android Engineer Associate.
 - 🎓 &nbsp; Studying Software Engineering at State University of Jakarta.
 
 
